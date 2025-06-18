@@ -8,11 +8,12 @@ This project aims to develop a predictive model for estimating health insurance 
 The project consists of multiple phases, with the initial phase focusing on building a Minimum Viable Product (MVP).
 
 <h1>Features</h1>
-      1) Predictive Accuracy: Ensures a high accuracy rate with minimal error margins.
+<ul>
+    <li><strong>Predictive Accuracy:</strong> Ensures a high accuracy rate with minimal error margins.</li>
+    <li><strong>Cloud Deployment:</strong> The model is accessible remotely for ease of use.</li>
+    <li><strong>Interactive Application:</strong> Provides a user-friendly interface for input and prediction.</li>
+</ul>
 
-      2) Cloud Deployment: The model is accessible remotely for ease of use.
-
-      3) Interactive Application: Provides a user-friendly interface for input and prediction.
 
 ## Project Workflow
 
