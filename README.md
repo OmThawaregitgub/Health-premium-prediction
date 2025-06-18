@@ -40,7 +40,3 @@ The project consists of multiple phases, with the initial phase focusing on buil
 - **Documentation**
   - Create detailed guides for users and stakeholders.
   - Include instructions for deploying, running, and maintaining the application.
-
-
-
-Link of project:- https://health-premium-prediction-cxvynfrwmu8as7rs8oajrm.streamlit.app/
